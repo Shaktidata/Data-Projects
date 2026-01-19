@@ -11,3 +11,5 @@
 **5. Adventure Works Dashboard:** Developed in Power BI, this dashboard explores further the data modelling, creating measures and visualisations.
 
 **6. Dashboard Reporting in Excel with Power Pivot:** Developed in Excel, this dashboard is another Sales Analytical dashboard, but uses Excel's Power Pivot and Data Modeling, where a Star Schema design is used to create a relationship. Once the data model and relationship are defined in excel, this excel workbook can be imported in Power BI to further develop an interactive report and dashboard.
+
+**7. Workforce Attrition Deep Dive:** This WADD dashboard developed in Tableau, enables HR to identify high-risk areas of attrition, workforce demographic patterns, and employee satisfaction. Data-driven decisions can be made to address the gaps in support of talent and enable effective retention strategies.
